@@ -1,0 +1,33 @@
+Project Overview:
+
+A discord bot that lets you play 10 games
+
+1. Add discord bot into the server
+
+2. User will type command "!play gamebot"
+
+3.Choose games:
+1. Black Jack
+2. Hangman
+3. 2048
+4. Mafia
+5. Family feud
+...
+
+
+
+
+
+
+
+
+
+
+
+
+Things to DO:
+
+Ralla:
+
+Abdullah:
+
