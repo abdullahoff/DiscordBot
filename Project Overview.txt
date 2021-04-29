@@ -11,7 +11,7 @@ A discord bot that lets you play 10 games
 2. Hangman
 3. 2048
 4. Mafia
-5. Family feud
+5. Pictionary
 ...
 
 
